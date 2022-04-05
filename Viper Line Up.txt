@@ -1,0 +1,705 @@
+ASCEND DEFENSE :
+
+	A site : Wall top mid -> go to the left corner right by the box in the A entrance and aim at the left top corner of the box of top mid
+
+			 One way A entrance (L click) -> Right side of the A entrance, align urself with the second tile crack of the gray bar on the floor and the first gray square on the wall and 
+			 aim and the ventilation up left of you. Aim at the right vertical black line near the fan and while being aligned to this bar, aim at the bottom of the ventilation
+			 (in the middle of the metal area below the black bar below the fan). 
+			
+			 One Way Tree entrance (Instant j.R click) -> go to the corner of the second tile left from the tree entrance and aim at the middle top of the lamp 
+			 OR (Instant j.R click) -> go on top of the drain in front of tree entrance, aim at the top bar of the lamp 
+			
+			 One way door entrance (L Click) -> go to the corner of the right side of the tree area (facing opposite way of heaven), and aim at the second bar on the frame 
+			
+			
+	Mid :  One way in front of you (L Click)-> go to the bottom right of pizza and aim at the pointy building up in the sky. Align urself with the horizontal bar left to the cone and 
+		   the right corner of the block left to the cone.
+		   
+
+	B site : Wall B main -> go to the left corner by market and aim at the left corner of the first hallway of B main. 
+			 This wall will force the ennemies to cross your wall 3 time before site.
+	
+			 Wall mid -> Near the lamp in the one way setup, theres a square. Go hug it and aim at the corner of the left box on top mid 
+
+			 One way market (Instant j.R click) -> from the middle square on the ground, move up up right to the first tile crack of the cross
+			 and aim at the lower ledge on the right pillar of mid
+			
+			 Alex original one way (Falling j.R click) -> go 5 tile away from the front of the right lamp and aim at the top of the lamp. 
+			 You want to land the q inside the lamp as much as possible to protect ur feet to be exposed
+				
+			
+ASCEND ATTACK :
+
+	A site : Wall door and generator -> from behind the box left to A lobby on the corner, aim up to hit heaven. You can also just not wall gen to gain more site control but 
+			 you will need to clear more angle at once. If enemy killjoy has ult, u can do the door wall only but leave a tiny crack on the left corner of site to hide while detained
+
+			 Q smoke heaven (Instant j.L click) -> from behind the box left to A lobby on the corner, aim the top of the smoke icon to the square on the wall up the left edge of the entrance
+			
+			 Post plant hell (L click) -> from behind the box left to A lobby on the corner, align the right side of the line next to ur hp 
+			 with the white line above the right corner of the fan to your left
+			 
+			 Post plant front generator (L click) -> from behind the box left to A lobby on the corner, align the right side of the line next to ur hp 
+			 with the small metal rectangle sticking on the top right corner of the lowest metal box on the left wall
+			 
+			 Post plant front of the boxes for long (L click) -> from behind the box left to A lobby on the corner,  aim at the left corner of the furthest building on the right side
+
+			 RAT ult in wine (L click) -> in front of the brown box on the right side, aim at the concrete box on the right bottom of the site and ult. Go hide in wine near the barrels.
+			 From the corner of wine in front of the barrel sticking right outside of ult range (L click) -> aim at the left top corner of the sticking wall near the diagonal rope.
+
+			 RAT ult 2 at tree (L click) -> at tree, go in front of the sqaure on the wall right by garden entrance and aim at the site (bottom ledge of the left corner of A main entrance) while ulting.
+			 Close the door if you have an ares or odin. Charge your ult in between your snake shots. The bomb should be planted in front of generator.
+			 From mid cubby left of the dog (L click) -> Align the right end of the right line of you hud with the top left corner of the black square inside the metal panel 
+			 on the right of the wall while touching the left edge of the panel OR align the right end of the right line of you hud with the top left corner of the panel. 
+			 
+			 
+	Mid : Wall Market + tree exit for pushing catwalk-> from the left edge right before mid from b, aim at the tree entrance while blocking market
+		  
+		  Wall Martket + catwalk -> align urself with the line on the wall and and the black stripe and cut the tree entrance 
+		  and the right of the market entrance so that anyone coming from their spawn cant see you go into market
+
+
+	B site : Wall half site of free entry -> In front of the doors on the wall at B lobby, cut the site in 2 by letting u a small gap. 
+			 For ur team to pass to the left side of the site while still blocking market and enemy spawn.
+	
+			 Smoke stairs behind workshop left of enemy spawn (L click) -> Go to the left side of the block in front of the entrance of the corridor. Aim at the top of the pole.
+			 
+			 post plant behind the 2 box (L click) -> go to the right side of garage entrance and peek a bit to see a tree bush and aim just a bit higher to the brick wall
+			 
+			 post plant behind the 2 box (L click)-> go behind the house outside of garage, aim at the cloud from the top of the little box and align the dot above ur snake bite on top of the 
+			 right corner of the left window on the little house crumbled. ur cursor should be on some wavy cloud.
+			 
+			 RAT ult behind boxes (L click) -> go to the right back of the site and use ur ult facing the boat house entrance. The bomb should be planted in front of the boxes.
+			 Hide the other site of the boxes in a little cloud in a crack between 2 boxes.
+			 From the corner behind the 2 boxes (Crouching L click) -> aim at the top right corner of the box right to you.
+			 From the corner behind the 2 boxes (Crouching L click) -> aim at the ground to hit the spike the other side. Does 44 hp per snake bite. Requires 89 hp to survive.
+			 
+			 RAT ult 2 in boathouse (L click) -> go to the right top of the site in front the boxes (dragon) and aim at the little box and ult. The bomb should be planted right of the boxes.
+			 Go hide behind the boat house using the path way created by your ult left of the site on stairs.
+			 From boathouse (L click) -> go out of your ult, aim at the floor near the bomb (even tho the floor is higher than the bomb). The poison should still hit the spike.
+			 
+			 
+BIND DEFENSE : 
+
+	A site : One way shower (L click) -> hug the right side of shower entrance and aim a the 6th line surrounding the frame
+			 
+			 Smoke top of smoke to deny A short.
+			 
+			 Smoke right of the box to deny A short.
+			 
+			 Smoke right behind the box to aggresive push.
+			 
+			 Preemptive retake wall -> from U hall right corner entrance, aim at showers to deny both showers and a site players the ability 
+			 to help players that are playing from a short.
+			 
+			 One way shower (L click) -> go below the lamp with a hole in it and aim at the middle of the square of its base.
+			 
+			 One way inside shower (L click) -> hard to describe. At the right corner of the shower entrance hugging the barrier wall, 
+			 aim at a weird small line on the roof in the 2/3 of the up area of the tile right before the hole in the roof.
+			 
+	B site : Wall hookah + A short -> from the right side of window on site (from below), aim at the top corner of the teleporter at A short. 
+	
+			 One way B long (Instant j.R click) -> go in front of the wood plank at the right of B long and 
+			 aim at the first line on the left wood plank and transition to the edge of the right wood plank. 
+			 You can stay inside the orb and drop your smoke after enemy enters for free kills.(Extreme goblino)
+			 
+			 Wall Hookah + long for orb play -> go on top of the box in front of hookah in the middle of it and aim at the top left of the top ledge of the wooden house frame in hookah.
+			 This wall will allow you to block long in a way that gives you a free orb. (Warning! neon is fast enough and can push you with her stun.
+			
+			 
+BIND ATTACK :
+
+	A site : Smoke heaven (L click) -> aim from the hole in the shower roof directly onto the red light 
+
+			 Smoke U hall (L click) -> On the top of the ledge right to bind entrance in the right corner, 
+			 align the x in the ult in the intersection between the aeroconduct and the wall at the bottom of your screen.
+
+			 Wall heaven + A site -> aim in a straight line to go on top of the box right of the truck from the right side of A short.
+			 
+			 Wall U hall + A short -> aim in a straight line to go left of the box on site from A lobby.
+
+			 Wall site in 2 -> go to the right corner right before the entrance of shower and aim at the right corner of the entrance of the enemy spawn in the left back side of the site.
+			 Pair with the smoke on top of the truck. Great for lurking
+			 
+			 Smoke top of truck (Instant j.L click) -> go in front in between the 2 boxes at A lobby and align the tip of your smoke icon with the top of the big small leaf 
+			 at the right side of the left bottom patch of grass on the wall. Pair with the wall that cut site in 2. Great for lurking.
+			 
+			 Plant for default (L click) -> on the right side of A short go to the right side corner and aim at the bottom right corner of the yellow spot on the leaf slightly above you. 
+			 
+			 Plant for between the boxes on sit (L click) -> go on top of the left bottom corner of the yellow carpet (centered on a tile) and aim at the hole on the roof. 
+			 aim toward the right corner  with the edge of the roof top slighty above.
+			 
+			 RAT ult behind truck (L click) -> go inside U hall in the right bottom corner of the back exit toward spawn and aim and the end of the black line on the brown stripe on the wall to your right.
+			 Use a wall or smoke to help get into a gas cloud behind the truck and hide at the right corner to avoid detection from people searching U hall. 
+			 The bomb should be planted default. From behind the truck in the right corner (L click or Crouching L click) ->  aim at the zone between the metal top 
+			 of the box and your gas ult onto the wall. This is useful even without an ult for clutch when you are behind the truck and someone is defusing.
+			 
+			 RAT ult 2 from showers in front of heaven (L click) -> go right of the bench and aim your ult straight at the wall. Dont waste your Q smoke but use the lurk wall that cuts the site in 2. 
+			 You will need to challenge heaven. Use your q to lurk behind the pillar right in front of heaven in the little pocket cloud. 
+			 The spike should be planted between the boxes on site. From behind the pillar -(L click) -> aim at the first dark spot on the right edge of the corner at the spike.
+			 It is a good idea to also throw your q at the spike from that spot.
+			 
+	 
+	 B site : Wall long + elbow for orb -> go on the rigth bottom side of the small star in a corner and aim between the 2nd and third panel of the bottom yellow solar panel on the wall.
+			  Use this wall to safely get the orb and push with your team. Once your team have long or site control, drop your wall. Good to pair with the smoke from mid (the one below).
+			  
+			  Smoke back site spawn from mid (L click) -> from behind the box near teleporter, align the left side of the right line hud with the rectangular shadow right 
+			  below the first wooden row on the wall in front of you on your right side. Your cursor should be a little bit above the hanging rope in the sky.
+			  Good to pair with the wall for elbow and orb (the one above). Once your team have long or site control, drop your wall and activate this smoke.
+			  Also good for saving abilites for rotates.
+			  
+			  Smoke back site spawn from long (Running Instant j.L click) -> from the left back corner of the corridor of long, align the tip of your smoke icon with the 
+			  left window frame of the left window on the building with the metal rooftop. 
+			  Align the bottom part of the small line on your right side hud with the metal bar that has metal dots to its right below a giant cylinder on the right of your screen.
+			  
+			  Wall back site + enemy spawn -> from behind the box near teleporter, aim at the right corner of the back of the cylinder back on B site.
+			  
+			  Snoke Elbow from mid (Instant j.L click) -> from behind the box near teleporter, align the beak of your left line hud (where the 2 line are intertwined) 
+			  with the top left corner of the block one the wall right left to the box in front of you
+			  
+			  Smoke Elbow from mid (Instant j.L click) -> go in front of the box in the corner right by the teleporter, align your cursor with the 4th wooden stick on the roof from the left
+			  and the dot above your q icon with the bottom part of the ledge on the roof below the wooden rods.
+			  
+			  Wall hookah + right side of B site with a hole in cylinder -> go in front of the right side of the door frame of the door with a lock in B fountain
+			  and aim forward up a bit.
+			  
+			  Smoke elbow from B long (L click) -> from the left back corner of the corridor of long, align your cursor with the middle of the right white arrow 
+			  and the second highest roof corner.
+			  
+			  Post plant default in the left corner of the middle box (L click) -> go on the rigth bottom side of the small star in a corner and align the dot on top of 
+			  ur snake bite icon to the intersection between the 2 cylinder.
+			  
+			  Post plant default in the left corner of the middle box (L click) -> go to the back side of the teleporter on B long and 
+			  align the tip of the line below ur hp with the corner while looking at the sky. 
+			  
+			  Post plant default in the left corner of the middle box (Instant j.L click) -> go into the teleporter from b and go on the right side of A short go to the right side corner.
+			  look to the right. Aim to the top right corner of the building to ur left and move toward the right just a bit in order to align 
+			  the Q border with the edge of the wall. (Warning! people will cringe and be hyped). 
+			  A cool but sadly nerfed setup you can do is use the line up from teleporter (the one above) and run in the teleporter all the way into this corner 
+			  (try to run with your knife as much as possible) and do the line up super fast.
+			  If done perfectly, the delay between the shots should around 9 sec which is barely viable and wont let eneymy defuse.
+			  
+			  RAT ult from default (L click) -> from the corner right by the middle cylinder (with a wall blocking you from enemy spawn), look at the tiny rectangle on the wall of inside tube and ult.
+			  The spike should be planted in the right corner of the cylinder right in front of hookah. You can go hide on the left corner the cylinder 
+			  A.K.A default from the top of the cylinder using the stair in front. Crouch for maximum ratness.
+			  From default left corner of cylinder (Crouching L click) -> aim at the middle of the slope shaped right corner of the metal box dividing you from the spike.
+			  
+			  RAT ult 2 from behind cylinder (L click) -> go into the default zone (left corner of the cylinder) and align yourself with the left side of the frame of the right edge of stair facing the wall right of hookah. 
+			  Aim at the first blue tile from the left of the rightest white patch on the low side of the wall left by the box of hookah and ult. 
+			  Go hide behind the cylinder using the stair and dropping down.
+			  If bomb planted in front of hookah right side of cylinder, from behind the cylinder (Standing L click) -> aim at the left corner of the first knotch on top 
+			  of the cylinder from your left while watching toward elbow. 
+			  If bomb is planted default left side of the cylinder, from behind the cylinder (Standing L click) -> Make a V with the bottom of the metal parallelograme on 
+			  top of the cylinder and aim at the right side of the V. The left side of the V should be the bottom left corner of the parallelograme.
+			  
+			  RAT ult 2 variation from behind cylinder (L click) -> go to the left of the box at the exit of hookah and aim at the rough dark spot on the ground in front of you after the shadow area while ulting.
+			  Go hide behind the cylinder using the stair and dropping down.
+			  If bomb planted in fornt of hookah right side of cylinder, from behind the cylinder (Crouch L click) -> align your cursor to the edge of the box to your right and
+			  aim straight ahead toward the enemy spawn wall. (Warning! might hit you dont panic)
+			  If bomb is planted default left side of the cylinder, from behind the cylinder (Standing L click) -> Make a V with the bottom of the metal parallelograme on 
+			  top of the cylinder and aim at the right side of the V. The left side of the V should be the bottom left corner of the parallelograme.
+			  
+			  
+			  
+			  
+BREEZE DEFENSE :
+
+	A site : one way double doors (Instant j.R click) -> go to the corner of the left side of the door and aim at the right edge of the second brown rectanctane on the top frame of the entrance
+
+			 Wall cave + A hall -> Hug the barrier pre game and aim at the hall entrace (up to make sure it smokes). One on A and one on Hall is good enough with this setup
+			 
+			 smoke cave entrance from hall (Instant j.L click) -> on the bridge near the rope, aim at the top left corner of the patch of grass directly above the right pyramid
+			 
+			 Jin setup -> stand on the left corner of the metal frame of the slope and aim your wall at the edge of the cave left entrance. Throw a smoke to the ground next to you 
+			 (aim between the bottom second white dot and the 3rd top black dot on the metal frame). This will allow you to dodge sova dart and sky doge.
+			 
+			 
+	B site : Wall mid entrance + B main -> at spawn, go in front of the woodden plank behind B nest and aim at the B main entrance while avoiding any gap on the site walls.
+			 Good to cover B from A. Ping the bottom right corner of b tunnel and aim at that ping in order to have a perfect wall that will not put a smoke on nest.
+			 
+			 Wall half site without blocking rotating allies -> at the entrance of site from ur spawn, on the right side , aim at the right corner of B main entrance.
+			 
+			 one way backside (Instant j.R click) -> go on the ledge behind the right block and hug the block wall. aim at the left corner of the first tile from ur right. 
+			 
+			 Smoke the entrance of B main in the middle of it.
+			 
+			 
+BREEZE ATTACK :
+
+	A site : Wall doors + double doors mid -> on the left side of shop entrance from ur spawn, go to the right corner of the metal sheet on the wall and aim at the entrance of doors
+			 
+			 Wall heaven bridge + double doors mid -> on the left side of shop entrance from ur spawn, go to the right corner of the metal sheet on the wall and 
+			 aim to the left of the left pyramid while going on top of the boxes
+			 
+			 Actual best wall for A and safe spot plant -> go in front of the box with the barrel and tire right to the rope and 
+			 aim at the first metal corner with dots on the metal wall in a way that the wall passes on top of the concrete box left of cave entrance. 
+			 Pair with the right pyramid side smoke (right below).
+			 
+			 Smoke heaven bridges + boxes (j.L click) -> on the wooden path in front of the rope, go to the right top corner of the top horizontal plank and
+			 aim at the crack on the pipe up in front of you.
+			 
+			 Smoke right side of pyramid (safe spot) (Instant j.L click) -> Go in the corner between the vase and the rock in the middle of A lobby and
+			 align the 'c' in your snake bite icon (smh if you changed your keybinds) with the 'o' on the shop sign (Warning! not the big "CHOP" sign).
+			 pair with the actual best wall for a quick and easy plant in the safe spot right of the pyramid. 
+			 pick up your orb once your team have control of the site in front of the pyramid. 
+			 
+			 Post plant bottom right of left pyramid (safe spot) (L click) -> go on top as much as possible of the rocks right bottom of
+			 A lobby and aim at to the black spot right of the second top leaf on top of the hill
+			 
+			 Post plant front right pyramid (L click) -> go on top as much as possible of the rocks right bottom of A lobby and aim at the second top leaf on top of the hill
+			 
+			 Post plant front left pyramid (L click) -> go on top as much as possible of the rocks right bottom of A lobby and align your aim with
+			 the second top leaf on top of the hill and bottom left corner of the batch of leaf (the one with the 2 leaf, one going upward and the other going downward left)
+			 
+			 Post plant front right pyramid (j.L click) -> go on the right edge of the main A entrance from spawn (back should be in front of a rock),
+			 aim at the black line on the left side of the highest metal piece sticking out of the broken dome and align ur cross cursor with the tip
+
+			 Post plant front right pyramid (L click) -> on the right corner of shop, look at the palm right of the pyramid. 
+			 aim at the black spot above the center leaf with the brown taint
+			 
+			 Post plant right side of right pyramid (L click) -> on the right corner of shop, look at the palm right of the pyramid. 
+			 aim at the center leaf with the brown taint
+			 
+			 RAT ult from behind box in front of double doors entrance (L click) -> on the left side after cave entrance, aim at the second stain on the box left to the second brown stripe.
+			 Now after planting in front of the pyramid covered by your ult (the left one), go behind the box on the corner of your ult by falling from the top of the box.
+			 (Careful! they can hear you fall so try to shoot to cover the sound and hide before they push your ult). 
+			 From behind the box (Crouch L click) -> aim at the intersection between the box and the bar in the middle of the metal stripe on the wall while crouched
+			 
+			 RAT ult 2 in between pyramid toward left one (L click) -> on the corner of the site with water closest to mid (bottom left) aim at the top opposite corner and ult.
+			 Go hide in between the pyramid in a little cloud gas. The bomb should be planted middle left side of left pyramid. 
+			 From behind the pyramid toward left side (Crouching L click) -> align the top of your toxic bad with the top of the window in the pyramid in front of you.
+			 
+			 
+	B site : Risk free wall -> go to the right edge of the barrier wall and aim at the right corner of the left block on the site.
+			 (Warning! goblin spot directly to the entrance of B main)
+			 
+			 Anti goblin wall -> go in front of the third plank in elbow and aim at the right corner of the left block on the site 
+			 without letting a single gap on the little corner directly in front of you. 
+			 (Warning! care for pepegas duelist that will rush mid to elbow at the start of round for some fking reason) Team awarness is required
+			 
+			 Smoke from outside of B main (j.L click) -> go right to the small wooden crate on the left side of the painting and 
+			 aim the right line of your hp hud to the left flower on top of the elbow entrance
+			 
+			  Post plant in front of the wooden planks on the left side of the pillar (L click) -> in the middle of the box at the exit of elbow, 
+			  aim the dot above your wall icon with with the first brick line coming from the top left of the metal panel on the wall.
+			 
+			 Post plant in front of the wooden planks on the left side of the pillar (L click) -> go right to the small wooden crate on the left side of the painting and
+			 aim ur right side toxic bar with the bottom ledge of the top right side corner of the building in front of you while aiming at a leaf above you 
+			 
+			 RAT ult behind concrete near pillar (Delayed j.L click) -> on the left back site of the site, hug the wall in front of a hourglass shaped scratch and aim at it center. 
+			 The bomb should be planted left side of the box next to the pillar. Using a wall to help you cross safely, go behind the box on the opposite side of the bomb and 
+			 stay aligned with the second middle black line while crouched. From behind the box (Crouch L click) -> aim the left side of the line hud to the right of your ult  
+			 with the intersection between the wall, the gray spot on the pillar and the box 
+			 
+			 RAT ult 2 behind brick wall right side of the site (L click) -> Go to the corner between the brick wall and the box left to it 
+			 facing site and aim at the bottom left corner of the first triangle in front of you on the floor of the plant zone. Hide behind the brick wall. 
+			 The spike should be planted right side of the concrete box near pillar.
+			 From the right edge of behind the brick wall (Standing L click) -> Go in front of the ovale brick right to the 2 white brick toward the right side and 
+			 align the bottom right of the line hud on the right side with the bottom right corner of the first brick left to the 2 white bricks.
+			 
+			 RAT ult 3 behind the back wall (Running Instant L click) ->  on the top left corner of the site (by the corner of the two brick wall on the site floor level),
+			 aim at the middle of the second base triangle on the floor and run ult. The spike should be planted in front of the black stripe on the pillar in front of you.
+			 Go hide in the little pocket in backside in front of a wall. dont turn around or else they will see you.
+			 From behind the left side of brick wall (toward the pillar) in back side (Rising L click) -> stand in front of the 'C' shaped stain in between 2 brick.
+			 The left brick should be a half white half black brick. While crouching, aimin the middle of the bottom left corner of the ovale shaped brick in the front of you.
+			 
+			 
+	Mid : Wall for A -> go on crack between the middle pillar and the left box and aim at the boxes on the site. This covers mid, doors and heaven bridges.
+		  Bring one more person to protect you mid while your team pushes A
+		  
+		  Mid Control -> go in front of the barrier wall while touching the right side of mid entrance and
+		  aim at the satelite on top of the pillar
+		  
+		  Smoke heaven (j.L click) -> go in front of the the barrier wall while touching the left side of mid entrance and 
+		  aim at the black spot on top of the box directly in front of u.
+		  
+		  
+		  
+		  
+FRACTURE DEFENSE :
+
+	A site : One way A main (j.R click) -> go on the center of the center losange on the first metal frame on the floor, aim at the top ledge of the first metal ledge 
+			 on top of the entrance aligned with the crack between the 4 metal dot on the ceiling of the entrance
+
+			 One way satelite entrance (Running j.R click) -> go on the corner of the entrance facing your site and aim at the middle of the black bar on the slope
+
+			 Wall door + A main -> simple horizontal wall fronm stair. Pair with the one way at satellite
+
+			 Wall A main corridor -> align yourself with all the corners of the corridor. Useful for aggressive or sneaky push.
+			 
+			 Retake wall setup -> go up the first stair and aim at the left corner of the metal sheet on the top site toward satellite.
+			 
+			 One way A hall door (L click) -> Go in front of the left 2 on rope and aim at the black spot below the conduct going up on top of the middle of the door.
+			 The dot above your left click icon on top of your q should be aligned with a black stripe on the floor right beside the rope
+			 
+			 
+	B site: Wall B main entrance + sewer -> aim at the middle top of the left oriented triangle on the left bot corner from the right side of B main entrance. 
+			(Warning! if the angle is messed, there will be gap on the sewer wall denying flank possiblities
+			
+			Smoke B arcade orb.
+			
+			Smoke B main entrance.
+			
+			Wall all the corner of arcade + bench to force enemmies to push through many walls to get on site
+			
+			Lurking Wall -> go right corner of tower entrance and align the left side of your left line hud with the left top of the 'A' in the left corner of your screen.		
+
+
+FRACTURE ATTACK :	 
+
+	A site : Wall satellite exit -> From spawn, near the rope, aim a wall that will block satellite exit to deny an enemy that plays from that spot and will be forced to down to help
+
+			 Wall enemy spawn -> go to the left corner in front of the box at spawn and aim at the ring around the pipe.
+			 
+			 Smoke satelite (Instant j.L click) ->  Go in front of of the crack between the 2 metal sheet right side of attacker spawn near the rope. 
+			 Aim at the top left corner of the omega sector billboard.
+
+			 post plant on top of A site on the corner of the 2 metal sheets (L click) -> on the right side of ropes, align yourself with the black metal bar right to the actual door 
+			 and aim at the sky. Align the dot on top of the mouse icon on top of your snake bite icon with the bottom part of the first diagonal 
+			 metal bar on the hole near the right corner of the left side ceiling. Your cursor should be aiming above the building with the flashing yellow light.
+
+			 post plant on top of A site on the corner of the 2 metal sheets (L click) -> in front of the crack that goes into the small boulder on the ground right side of the satellite, 
+			 aim corner between the black building and the rock directly in front of you (the corner creater by a small rock) and align yourself with the top of the 3rd ledge 
+			 of the building with the flashing yellow light.
+			 
+			 post plant on default, behind the box on site toward the stairs (L click) -> in front of the crack that goes into the small boulder on the ground right side of the satellite, 
+			 aim corner between the black building and the rock directly in front of you (the corner creater by a small rock) and align yourself with the top of the highest ledge 
+			 of the building with the flashing yellow light.
+
+			 post plant on default, behind the box on site toward the stairs (L click) ->  on the right side of ropes, align yourself with the black metal bar right to the actual door 
+			 and aim at the sky. Align the right bottom side of your toxic bar with the bottom leftof the black metal vertical bar on the giant metal conduct on top of doors. 
+			 
+			 RAT ult on top of site (L click) -> on the left corner on the stair facing the red box on top of site use your ult. The bomb should be planted directly under the corner of the stairs. 
+			 Go hide behind the red box and edgeguard the stair + spike by aiming at the second black dot on the red brick in front of you while crouched and (L click) your poison.
+			 After both poison have expired, perform a tactical jump out of your ult to land into the middle of the site. Use this opportunity to wall bang people and hide behind the red box.
+	 
+
+	B site: Wall off spawn + orb -> from the right edge of B main entrance (in front of a black stripe on a wall), aim athe left side of the box next to the orb at Bench.
+			Use the sewer to safely go take the orb or give it to a pushing teamate
+			
+			Wall towers -> from the edge of the right side entrrance of attacker spawn, aim at the left bot corner of the tower entrance 
+			
+			Smoke towers rope (Instant j.L click) -> Go on the rock to the right bottom corner of attacker bridge at the end of the B arcade hallway. 
+			Aim at the tip of the second leaf on the bottom left of the black cube. 
+			
+			Wall rope + spawn -> go behind the box at B tree on the right corner, and aim at the bottom left of the bottom leaf.
+			
+			Smoke towers from B tree (Instant j.L click) -> go in the right corner of the box at the back of B main and aim at Top left corner of the light casing in front of you on the roof of the entrance.
+
+			Attacking snake bite behind boxes (Running L click) -> aim at the triangle on the wall from the bottom of the stairs.
+			
+			Attacking snake bite back corner in front of towers (Running L click) -> aim at the yellow triangle on top of the wall from the bottom of the stairs.
+
+			post plant default between the 2 boxes (L click) -> go to the corner left of bench and aim at the left bottom of the bush on the giant corner hanging from the left side and 
+			align yourself with the highest leaf on the left part of the roof
+
+			post plant default between the 2 boxes (L click) -> At tree, go in front of the middle crack of a tile right of the Robotics departement and left of a giant pipeline on the wall.
+			aim at the white spot under the green flower near the hanging vine (front of you) and align the top of your toxic bar with the start of the 
+			slope area on the right side of the left building
+
+			post plant left side of site behind the wall (Running L click) -> At tree, go in front of the middle crack of a tile right of a giant pipeline on the wall and behind a box.
+			align the aiming circle icon on top of your snake bite icon with the line on the bottom right corner of the blue window to your left.
+
+			post plant left side of site behind the wall (L click) -> on the edge of the animated screen and the bench (left side) align the aiming circle 
+			in the middle of the blue shaped hole on the left side of your screen (there should some rope hanging from the top of the blue window)
+	 
+			RAT ult behind the boxes (L click) -> on the right corner of the back site, aim at the top of the shadow triangle inside the brown triangle next to the stairs and ult. 
+			Use a wall smoke that blocks spawn to sneak behind the little gap behind the boxes.
+			From behind the boxes (standing L click) -> align the tip of the top right side of the short line right of your hp with the white crack defining the intersection of the boxes and
+			aim slightly above the top of the box in front of you (let a gap of green between your cursor and the box)
+			
+			RAT ult 2 tower defense (L click) -> in front of the towers exit (from rope), aim at the bottom left corner of the black frame of the wall and ult.
+			Plant right under the stairs to tower and use your q in front of the towers exit and hide on the right corner of the towers-site exit (with a open defuse spot).
+			Edgeguard spike + rush through site/towers (L click) -> Aim at the top of the left column dot on the floor of the door frame.
+			This will allow you kill any player that tries to face check you from any angle while killing any player trying to defuse.
+			Easy kill since the floor underneath the spike does not display the poison area but will still affect the enemy.
+			
+		    
+		    
+HAVEN DEFENSE :
+
+	A site : One way smoke A long (Delayed j.R click) -> go on top of the belt on the floor left of the box, aim at the corner in front of you.
+	
+			 One way smoke A long (Running Delayed L click) -> From the right side of heaven hugggin the back wall, aim at the bottom left corner of the long box.
+			
+			 Wall A long + Mid entrance -> from the left corner of A long entrance, aim at the entrance of mid.
+
+			 One way sewer (Instant j.R click) -> Go in front of the left wodden bar on the sewer left wall entrance (hugging the barrier wall) and 
+			 aim at the little black knotch on the top right corner of the box.
+			 
+			 Odin Wall A long + A lobby entrance -> Go to the left corner of A long entrance, aim at the right corner of the First entrance of A lobby. 
+			 This wall is really good for odin play on long (Wallbang the smoke + the wall) or for pushing from sewer (Warning! Really easy to get headshotted from sewer)
+			 
+			 
+	B site : Wall A long + Mid entrance -> from right of mid entrance inside the site, aim at the box right of A main entrance on the minimap. 
+			 Pair this with a set up at garage or C long for full map control.
+			 
+			 Wall window + front of garage -> From the right side of the box near C long, aim at the left corner of B window. This wall is great for rat push either from garage if 
+			 they are pushing mid or a rat push from mid if they are forcing garage.
+
+
+	Garage : One way garage (L click) -> On the bottom left corner in front of the potaton bag, aim at the bottom left corner of the metal pipe visible on the ceiling.
+
+
+	C site : One way C long right side (L click) -> go to the left side of the entrance and aim at the the bottom part of the hole in the horn in front of you.
+			 
+			 One way C long left side (L click) -> go in front of the left side of the entrance and aim directly above you in the edge of the wall level where the window is.
+
+			 Jin rat setup -> On top of the big metal box in back site, go to the right bottom corner and aim at the right botton corner of the box 
+			 in front of the Big box in the middle of the site. Throw your q smoke at the top left corner of the big metal box 
+			 while aiming at the black vertical line while standing on top of it. Use the wall from the little corner where you nplaced it to rat out people and take your orb 
+			 to fight out people isolated with your wall on the back site.
+			 
+			 
+HAVEN ATTACK :
+
+	A site : Wall site in half -> From the right corner of the double ledge right before the first room of A, 
+			 aim at the left side of the middle box of the site in a way that let a little path for sewer to push.
+	
+			 Wall city -> From mid, A long, or sewer, aim at the entrance of city spawn in a way that let your team in sewer to see where they go.
+			 
+			 Smoke heaven from A spawn (Delayed Runnning j.L click) -> From the corner of the box at spawn with the plant pot, aim at the slight left of the tip of the satelite.
+
+			 Smoke heaven from A long (Instant j.L click) -> on top of the potato bag in the far corner, aim at the black spot under the right corner of the roof 
+			 on top of the double bulge.
+			 
+			 RAT ult behind the big middle box (L click) -> In front of the middle box, go in front of the middle crack of it and aim at the bottom right corner of the top left 
+			 parallelograme on the bottom right box in front of you while ulting. Go hide behind the middle box. The plant should be plant in front of the box where you ulted.
+			 From behind the box in front of the little belt (L click) -> ping at the bottom left corner and the top right corner of A tower on your mini map. 
+			 Using those ping visual cue, make a triangle and aim at the 90 degree angle of that triangle. Dont move your cursor for the second shot.
+			 
+			 RAT ult 2 hidden in heaven (L click) -> Left side of the box at city (the enemy spawn entry), aim at the 2 little brick on the bottom corner
+			 of the right entrance of the doorframe and ult. The plant should be planted to the very left top edge of the plant zone. You can go hide in heaven.
+			 From heaven (L click) -> exit your ult and aim at the right bottom corner of the window frame in front of you (left one ).
+			 
+
+	B site : Wall from the right side of the door right in front of garage and split bsite in a way that leave no suprise corner.
+			 Hug the wall and angle ur e with the left side of the mid entrance of B
+			 
+			 From the ledge at the entrance of A -> cut B site in a way that favor C and garage and blocks Back site as well as A side
+			 
+			 Smoke right side of mid  (j.L click) -> From A lobby, go to the corner of the first ledge on the back right of the area and aim at the branch with the 3 bot in it.
+			 Aim at the area where the branch connect with the satelite. Use a wall on the opposite side for full control of mid entrances.
+			 
+			 Post plant in front of the middle box (Strifing peek L click) -> shoot at the spike from any of the 2 middle side in front of window
+			 
+			 Post plant in front of the middle box (Strifing peek L click) -> shoot at the spike from the right corner of window. Good to pair with the lineup from spawn (below)
+			 
+			 Post plant in front of the middle box (L click) -> go in front of the middle hole at the back of spawn and aim at the tip of the bell.
+			 
+			 RAT ult on the weird little cloud shape that no one will check (L click) -> go in the corner of the right entrance from C hugging the wooden box and aim at the farthest yellow line 
+			 on the top side of the framing of the site on the floor. The bomb should be planted in the left side of the mid  face of the box (below the kingdom tag). 
+			 You can go hide on the little pocket barely of the size of a standing agent (glitching on the right side) on the right side of the box.
+			 From that right sided pocket (Strifing L click) -> aim at the left top corner of the black rectangle on the floor to your left while strifing.
+			  
+
+	Garage : dont
+
+
+	C site : Wall verticaly to block garage and the enemy spawn.
+			 
+			 Smoke left back site metal platform (Instant j.L click) -> From the crack between the hay sack framce and the wall (with a box to the right),
+			 align the top of the middle branch in front of you with the top of the right branch to it.
+			 aim at the middle branch. From the top right leaf and the top right other branch, aim at the intersection in the sky.
+			 
+			 One way smoke on top of the box to cover long push (Instant j.L click) -> Go on top of the fan at C lobby and aim at the left tiny gap in the top of the red square 
+			 hanging on the back rope from your field of view.
+			 
+			 Attacking snake bite metal box (L click) -> from the right side of C long way at the back, align the beak of your right to the right edge of the roof in front of you.
+			 
+			 Attacking snake bite behind metal box (L click) -> from the right side of C long way at the back, align the two edge of the right lines on the last black square
+			 on the rooftop in front of you and aim to the under ledge of the roof.
+			 
+			 Post plant default between the 2 boxes (L click) -> from the left side of C long way at the back,
+			 aim at the left rock tip in the sky with the right down side of the snake bite icon
+			 
+			 Post plant left side of middle box for plant (L click) ->  from the right side of C long way at the back, aim ur toxic left side bar with the pole
+			 
+			 RAT ult Garage into city sick rotation (Delayed j.L click) -> On the right side of the middle box, go in front of the crack between the small box and the big box
+			 and at the top right corner of the dark brick on the wall in front of you. Go play into garage or toward city. Trigger patience is key. 
+			 The bomb should be planted default, left side of the minibox in front of the big box.
+			 Sick rotation Lineup -> From garage, shoot a molly from the entrance of the garage toward the spike. Then, while walking, rotate to city from garage 
+			 and execute the B corner line up (down below) and while still walking recharge your ult from city and go on top of the wooden planks next to the spike. 
+			 You should be out of your ult. During that time, ask a teammate or do it yourself to ping where the bomb is and start wallbanging the ping.
+			 This is a great ult regardless of its RAT potential.
+			 
+			 Post plant default between the 2 boxes (L click) -> Go to the right corner right outside of the C exit of the B site 
+			 and aim above you on the first little sticking wooden block at its bottom left corner. Aim slightly to the left to avoid hitting the roof with your molly.
+
+			 
+			 
+			 
+ICEBOX DEFENSE :
+
+	A site : Wall Belt + nest -> In front of the thinker guy on the right side of the site, go in the right corner and the wall of the box. 
+			 Align the left side of the left hud line with the bottom corner of the 3rd shadow triangle on the diagonal line of the bottom right of the left block.
+			
+			One way belt (L click) -> Hug the barrier wall and align yourself on the white line that separate the slope on the left side of the site.
+			Align your cursor with the second line of the bricks left side of the triangle on top of nest and aim at the white line on the wall right of it. 
+			(Warning! super precise)
+			
+			Smoke on Pipes (L click) -> Go to the left side of the box on site aim slightly to the right of the rope and white box intersection. Cursor should be on the yellow stripe. 
+
+
+	B site : One way right side of box (L click) -> Go in front of the black and yellow stripe on the right side of the main white container at B cubby. 
+			 Aim at the bottom left corner of the inner line of the green container. Pair that with a wall that cover the front side of the box.
+			 
+			 One way Left side of box (L click) -> Go in front of the black and yellow stripe on the right side of the main white container at B cubby. 
+			 Aim at the top of the middle black stripe on the top left corner of the white container. Pair that with a wall that cover the back side of the box. Great for retake.
+			 
+			 Retake wall back side of the cubby area -> aim diagonally to isolate the back site of b cubby from yellow box windows.
+			 
+			 Not perfect B Green wall -> aim at the corners of the alley from the yellow box windows. You can free style a bit if you want to either play toward the garage or their spawn.
+
+
+	Mid : Wall mid in 2 -> from left corner of the mid boiler, aim at the corner of the blue box to your left and at the gray box in front of tube.
+
+
+ICEBOX ATTACK : 
+
+	A site : Smoke back site + heaven (Instant j.L click) -> Go to the very right entrance of A and hug the barrier wall, aim at the middle of the black line above the parallelograme 
+			 right to the triangle on the nest wall.
+			 
+			 Stalling wall -> Go in front of the door on the left entrance of A and aim vertically on the top left corner of the door so that it walls on top of the box right 
+			 of the entrance of mid (Screens). This is a wall to slow down the enemy rotations. Pair nicely with the smoke heaven from above.
+			 
+			 Wall top screens + heaven from mid -> GO to the left corner of mid entrance and hug the barrier wall. Aim at the middle of the little 'N' of the "Shopping" label 
+			 on the container.
+			 
+			 Post plant default right side of the box (L click) -> Go to the corridor behind the orb where you enter toward the right side. 
+			 Align urself with the end of the right wall with the yellow bar (hug it) and aim at the shadow triangle on the right side of the pipe going on the ceiling.
+
+			 Post plant in front of generator (L click) -> in the left corridor from the orb, Hug the left wall and align urself with
+			 the yellow tap corner and the line brick on the floor. Aim at the black bar that goes to the blue hole in the wall.
+			 
+			 Post plant on top of rope where you can land (Strifing L click) -> From the other side of the rope (nest), aim at the middle of the square where the bomb is while strifing.
+			 
+			 RAT ult left side of the box (L click) -> From the top right corner of the site, under rafter, aim at the opposite wall and ult. You can go hide left side of the box in default.
+			 The bomb can be planted either in front of generator, at default on the opposite side of your hiding spot and under the rope right side of the site. Use the appropriate line up
+			 from the 3 following line ups: For plant in front of generator (Crouching L click) -> aim at the top left corner of the green box hiding you.
+			 For plant under the rope right side of the site (Crouching L click) -> align the left side of your right hud line with the intersection between
+			 the top of the black diagonal stripe on the box and the right side of the top left losange on the box.
+			 For plant at default on the opposite side of your hiding spot (Crouch L click) -> aim at the top right corner of the small metal box in front of you. You also
+			 have the option of shooting straight at the top left corner of the metal box in front of you (Side that touches the green box) to hide where you are. The molly will 
+			 damage you as well if performed this way and will deal you 44hp.
+			 
+			 RAT ult 2 as seens from above (L click) -> go on top of the white container and aim at the top of the default box while ulting. Stay hidden on top of it and drop
+			 a smoke orb on top of the box to hide your presence when peeking or shooting a molly. Hide on the bottom part of the container away from the bomb. The bomb can be planted 
+			 anywhere where you can shoot it easily. This ult is very good for sniping people with mollys and even without the rat nature of it.
+			 
+			 
+	B site : Wall enemy spawn (snowman) + mid -> Go to the right top corner of the big alley of B (Greens) in front of a post lamp on the floor. Aim at the left slop of the snowman area.
+			 
+			 Smoke top of container (Instant j.L click) -> At the exit of B garage, stand in front of the middle line below the window. Align the right tip of your right hud line
+			 with the middle area of where the right cable is on the framing of the green container.
+			 
+			 Post plant under the rope area (j.L click) -> At the exit of B garage, stand in front of the middle line below the window. Align the tip of your smoke icon
+			 with the right top corner of the 'K'? symbol on the white container to your left (The symbol thats on all the containers). 
+				
+			 Post plant default bottom left of the site left of the orange container (L click) ->  At the exit of B garage, stand in front of the middle line below the window.
+			 Align the 'X' of your ultimate (SMH if you changed your keybinds) with the top left of the circle above the small container suspended in the air in the distance.
+			 
+			 RAT? ult Isnt this just a good ult? (L click) -> At the end of kitchen, aim at the bottom of the diamond in front of the door while ulting. This will create 
+			 a nice area in the backside to play with and rotate to kitchen from. The bomb should be planted at the very corner possible of kitchen. Use back site lineup to cover
+			 the spike.
+			 
+			 Post plant In the bridge to kitchen (L click) -> In the B back site, go to the left corner between the hut and the mountain wall and align the dot above your C icon 
+			 with the top left corner of the black boxes on top of the roof.
+			 
+	Mid :   Wall kitchen + Mid -> Go on top of the second orange box on the right side of the entrance and aim at the right bottom corner of the giant orange container in front of kitchen.
+			this wall will allow you to cross mid safely toward B. A cool trick to do is throw a smoke while running toward the exit of the under tube area and deploy it before peeking
+			from under the tube. Then use it to cross the other side of your wall (Recover orb then cross wall) for a quick path to kitchen.
+			
+	
+	
+
+SPLIT DEFENSE :
+
+	A site : Wall A main + A lobby -> go on the right corner of the heaven wooden panel and aim at the most corner possible toward A main. You can play from 2 headshot angle on heaven or ramp to cover the first cross.
+			 You can also aggressive push with a shotgun in eco rounds. Pair with a smoke near heaven (the one below) for maximum toxic.
+			 
+			 Smoke A main exit to site -> in front of the ramp, aim at the interection between the shadow, the white bricks and the black brick on the floor.
+			 
+			 One way A mid for Heaven (L click) -> on the left corner of the heaven balcony, align the left tip of the right hud line with the top left of the gray part of 
+			 the small tool box on the floor to your right.
+			  
+			 One way A ramp exit (Instant j.R click) ->Align urself on top of the middle scotch tap in heaven and aim at the blue line on top of the door.
+			 
+			 Retake A wall -> on the left corner of A screens, aim the bottom right corner of the left building of the A mid entrance at the white part.
+			 This wall blocks A main for ramps fairly well and traps people that play on site post plant.
+			 
+
+	B site : One way inside garage (L click) -> On the left corner of the B garage entrance (Hugging the barrier wall), 
+			 aim at the black spot on the 2nd loose cabling under the farthest left light on the ceiling.
+			 
+			 One way Outside garage (L click) -> On the right corner in front of the boxes at the exit of garage, aim at the left triangle on the left top corner of the exit.
+			 Play on the left side of the site.
+			 
+
+	Mid : One way Heaven (L click) -> Go to the left corner of the barrier wall, with the left side of the left hud line, make a triangle rectangle pointing down left 
+		  with last visible stair from your position.
+		  
+
+SPLIT ATTACK : 
+
+	A site : Wall ramp + heaven -> From spawn, Align yourself with the lamp and the right corner of the triangle
+
+			 Smoke A screens from A lobby (Instant j.L click) -> Go on top of the first ledge of the big box with rocks at A lobby and using
+			 the losange on the white building in the sky as metric, aim at the top of the 3rd losange.
+			 
+			 Wall heaven + A screens -> From sewer, on top of the broken bicycle on the right corner of the hallway, aim at the right side of the entrance of A screens.
+			 Great for lurking mid.
+			 
+			 Post plant behind the Blue box on site (L click) -> Align the blue light in the distant sky above you with the left edge of the right lamp.
+			 
+			 Post plant front of the Blue box on site (L click) -> Aim at the right corner of the blue light in the distant sky above you.
+			 
+			 Post plant front of pillar with the leaf right beside elbow. (L click) -> Aim at the right corner of the blue light in the distant sky above you.
+			 
+			 RAT ult a ward in front of elbow (L click) -> On the bottom right corner of the A site, go to the left side of the little gap on the window and 
+			 aim at the second black line on the elbow wall. Hide behind the line you were aiming at (in front of elbow in a small pocket cloud. 
+			 The plant should be planted to the left of pillar with the leaf right beside elbow. 
+			 From behind the elbow entrance (Standing L click) -> aim at the right edge of the wall where you are hiding in between the top line and the bottom line of the big tiles on the wall. 
+			 
+			 
+	B site : Wall for quick plant -> go to the left corner in front of the big junk platform in front of garage and aim at the right box on the back site.
+	
+			 Attacking snake bite Back site behind wood house (L click) -> go to the left corner in front of the big junk platform in front of garage and 
+			 Align both left tip of your right hud lines with the 1st and 2nd ring on the little pipe under the roof of garage.
+			 (Should be right below the other attack snake bite)
+			 
+			 Attacking snake bite Back site far back (L click) -> go to the left corner in front of the big junk platform in front of garage and
+			 Align both left tip of your right hud lines with the 3rd and 5th stripe on the big metal sheet on the little house in front of you.
+	 
+			 Wall heaven -> Go to the right of the generator at B lobby and aim at the top right corner of the 'O' on the "COLA" sign. 
+			 (Warning! this wall leave a hole visible from deep heaven. Use the heaven smoke down below to fix this weakness)
+			 
+			 Smoke heaven from B lobby (L click) -> From box in front of garage facing the opposite way,Go in front of thethe red box by going into the brown box. 
+			 The little corner should stop you and from there align urself with the middle of the second tile of the roof. Pair the heaven wall above
+			 
+			 Post plant default on the edge of the back site from Alley (L click) -> go in front of turtle rabbit painting and align the left side of your right 
+			 hud line with the corner between the left bottom corner of the lamp and its framing. 
+			 
+			 Post plant safe spot behind the box from Alley (L click) -> go in front of turtle rabbit painting and align the left side 
+			 of your right hud line with the bottom right corner of the roof top toward the right that touches the tree on your right.
+			 
+			 Post plant default on the edge of the back site from Garage (Delayed Crouching j.L click) -> On the right corner of the grilled fence on garage 
+			 in front of a box right next to a numpad, aim while crouching at the bottom left corner of the second layer of the shape on the middle of the top of the box 
+			 (the one slightly darker)
+			 
+			 Post plant safe spot behind the box from Garage (Falling Crouching j.L click)->  On the right corner of the grilled fence on garage 
+			 in front of a box right next to a numpad, aim while crouching at the bottom left corner of the second layer of the shape on the middle of the top of the box 
+			 (the one slightly darker)
+			 
+			 RAT ult edgeguard Alley (L click) -> Go in front of the door right of the barrel on the back site and ult. You should play on the Alley. 
+			 The bomb should either be planted default on the edge of the back site or safe spot behind the box. Use the appropriate molley lineup from Alley.
+			 Highly recommended to just strife shoot the first one and shoot the second one while retreating. You can also catch people by surprise rotating mid.
+			 If you walk all the way to heaven after shooting the 2nd molley, it will be perfectly timed for your ult to drop and kill the defuser from heaven.
+			 
+			 
+	Mid : Smoke vent from B link (L click) -> Go on top of the right corner of the last step of the link (on top of a yellow patch on the floor) and
+		  aim at the right top corner of the builind (Warning! not the edge... the actual building)
+		  
+		  Smoke B heaven exit to mid from sewer (Strifing L click) -> W.I.P. 
+		  
+		  
+
